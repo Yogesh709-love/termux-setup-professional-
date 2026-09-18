@@ -46,7 +46,7 @@ banner() {
     echo -e ""
     echo -e "${R} [!]${W} Author  : ${C}Yogesh Tiwari"
     echo -e "${R} [!]${W} Version : ${Y}v3.5 (Stable)"
-    echo -e "${R} [!]${W} Youtube : ${W}https://youtube.com/@coodewithyogesh?si=OtUo3eKuShrNPBdR"
+    echo -e "${R} [!]${W} Youtube : ${W}https://youtube.com/@coodwithyogesh?si=OtUo3eKuShrNPBdR"
     echo -e ""
     echo -e "${G} ==============================================${N}"
     echo -e ""
